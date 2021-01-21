@@ -18,6 +18,7 @@ $ history | show history
 
 
 
-:dog2:
+:dog2: :dog:
+
 
 
